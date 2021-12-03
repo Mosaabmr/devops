@@ -1,0 +1,30 @@
+1-Install Git.
+sudo apt-get install git-all
+
+------------------------------------------------
+2-Create an account on Github
+Mosaabrm
+----------------------------------
+3-Accept my invitation in opensource repository from gmail. Then clone it
+to your machine, and upload file with your full name.
+git clone 
+
+touch mosaab
+
+git add mosaab 
+git commit -m "add file " 
+git push origin main
+
+
+
+----------------------------------------------------------
+4-Create a local repository on your machine, and create a remote
+repository in github (and bitbucket). Then Upload a file with your full
+name from your local repository to remote repository. And send me an
+invitation.
+
+
+
+-------------------------------------
+5-What is the Pull Request.
+Download the latest update on the projet from github
